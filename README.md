@@ -1,14 +1,9 @@
  Nordzy Icon Theme
 ======
 
-
-# **Repository Archived**
-
-**This repository is now archived due to a lack of time to maintain and update it.**
-
-**If you're interested in taking over the project, I’m happy to offer limited assistance to help you get started. Please feel free to reach out!**
-
-**Thank you for your interest and contributions. Best wishes!**
+> [!NOTE]
+> This project was previously under the ownership of [@alvatip](https://github.com/alvatip), before retiring, and transferring the repository to me.
+> The document below is a verbatim copy of what they had written under their ownership.
 
 <p align="center">
 
